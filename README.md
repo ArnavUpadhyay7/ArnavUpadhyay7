@@ -30,6 +30,16 @@ Backed by MERN stack for robust functionality
 
 Stay tuned for the official release!
 
+**GitHub stats:**
+
+https://github-readme-stats.vercel.app/api?username=ArnavUpadhyay7&show_icons=true&theme=radical
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavUpadhyay7&layout=compact&theme=radical
+
+https://github-readme-activity-graph.vercel.app/graph?username=ArnavUpadhyay7&theme=radical
+
+https://github-profile-trophy.vercel.app/?username=ArnavUpadhyay7&theme=radical
+
 **✨ Fun Facts**
 
 Favorite tech stack? Definitely MERN!
